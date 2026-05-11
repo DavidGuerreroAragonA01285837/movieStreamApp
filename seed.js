@@ -1,3 +1,6 @@
+// Estructura de base de datos MovieStream en NoSQL (MongoDB) creada por
+// David Guerrero Aragon A01285837
+
 use('MovieStreamPlayground');
 
 db.dropDatabase();
