@@ -47,3 +47,13 @@ Este proyecto hace uso de Next.js con MongoDB con un Deploy en Vercel. Hice uso 
 El deployment está hecho con Vercel debido a la facilidad que ofrece y a la posibilidad de tener hosting sin costo alguno para aplicaciones serverless como las que tiene next.js
 
 ## App Funcional
+
+Pagina de Peliculas
+
+![alt text](image.png)
+
+Pagina de Generos
+
+![alt text](image-1.png)
+
+Link Deploy Vercel: https://moviestreamapp.vercel.app
